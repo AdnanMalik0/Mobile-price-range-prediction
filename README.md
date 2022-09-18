@@ -2,7 +2,7 @@
 
 # Project Plan
 
-## The Data (10 marks)
+## The Data
 
 The data considered for "Mobile phone feature's analysis and price-range classification" is taken from www.kaggle.com:
 https://www.kaggle.com/iabhishekofficial/mobile-price-classification
@@ -58,7 +58,7 @@ The data is accurate when measured against our aim which is to analyse how diffe
 
 _where it comes from, what data it contains, is it accurate. (Potentially you could create data from a simulation but you should still explain why and how you indend to generate this data.) 300-400_
 
-## Project Aim and Objectives (5 marks)
+## Project Aim and Objectives
 
 The aim of the project is to understand the relationship between different Mobile phone features and also their relationship with the price-range of the mobile phone.
 
@@ -74,7 +74,7 @@ By using the knowledge gained during these process, we then intend to develop a 
 * __Objective 2:__ To use statistical tools (ANOVA) to test our analysis and confirm our findings.
 * __Objective 3:__ To find and develop the best (most-accurate) Machine Learning classification model to determine mobile phone's price-range.
 
-## System Design (5 marks)
+## System Design
 
 ### Architecture
 ![](architecture.png)
